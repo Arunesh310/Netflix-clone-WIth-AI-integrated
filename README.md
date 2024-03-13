@@ -2,6 +2,9 @@
 
 - Create React App
 - Configured Tailwind Css
+- Header
+  - Login Form
+  - Signup Form
 
 # Features
 
@@ -13,7 +16,7 @@
     - Trailer in Background
     - Title and description
     - Movie suggestions
-      - MovieLists \* n
+      - MovieLists\*n
 
 - When logged Out
 
