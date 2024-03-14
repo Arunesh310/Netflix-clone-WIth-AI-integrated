@@ -11,6 +11,9 @@
 - Firebase setup
 - Production deploy
 - Authentication Signup user account in Firebase
+- create SignUp user Api
+- implement sign in user Api
+- created readme Redux store with userSlice
 
 # Features
 
