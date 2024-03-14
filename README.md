@@ -14,6 +14,8 @@
 - create SignUp user Api
 - implement sign in user Api
 - created readme Redux store with userSlice
+- Implemented signout
+- update profile
 
 # Features
 
