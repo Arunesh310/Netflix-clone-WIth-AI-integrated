@@ -32,6 +32,12 @@
 - Made the video autoplay and mute
 - added tailwind classes
 - worked on secondary component
+- build movie List
+- build movie cart
+- TMDB image CDN url
+- Made the browse page with tailwind css
+- custom hooks for different movie section
+- GPT search feature
 
 # Features
 
