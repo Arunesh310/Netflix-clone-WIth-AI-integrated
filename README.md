@@ -38,6 +38,8 @@
 - Made the browse page with tailwind css
 - custom hooks for different movie section
 - GPT search feature
+- Gpt search Bar
+- (Feature)Multi-language Feature
 
 # Features
 
