@@ -19,9 +19,15 @@ const GptSearchBar = () => {
     );
     const json = await data.json();
 
-    return json.results;
-  };
+    const filteredMovies = json.results.filter(
+      (movie) => movie.popularity > 50
+    );
+    const sortedMovies = filteredMovies.sort(
+      (a, b) => b.popularity - a.popularity
+    );
 
+    return sortedMovies;
+  };
   const handleGptSearchClick = async () => {
     console.log(searchText.current.value);
 
